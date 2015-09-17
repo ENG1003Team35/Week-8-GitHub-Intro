@@ -4,3 +4,7 @@ Team Members
 2. Anupa
 3. Hoong
 4. Winston
+
+Name: Choe Choon Hoong
+Role: Leader
+Branch: Chemical

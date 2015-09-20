@@ -1,6 +1,10 @@
 Team Members
 
 1. Amila
+Role in project: programmer
+ 
+Preferred branch of engineering: mechanical
+
 2. Anupa
 3. Hoong
 4. Winston

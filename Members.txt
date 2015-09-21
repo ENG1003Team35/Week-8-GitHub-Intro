@@ -13,3 +13,9 @@ Name: Anupa Pasan Jayamangala Dharmaratne
 Role: Reporter
 Branch: Mechanical
 
+<<<<<<< HEAD
+=======
+Name: Winston Goh Chee Hang
+Role: Coordinator
+Branch: Chemical
+>>>>>>> master
